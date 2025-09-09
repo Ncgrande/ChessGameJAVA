@@ -60,13 +60,6 @@ ChessGame/
 
 ---
 
-## 🖼️ Interface
-
-### Tela principal
-![Tela Principal](https://i.imgur.com/b95WwT5.png)
-
----
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
